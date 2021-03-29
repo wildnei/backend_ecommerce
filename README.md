@@ -27,9 +27,9 @@ This app enables you to create and manage a database of items using Insomnia
 
 This gif bellow is a little heavy so it might take a while to load the first time!
 
-![Image](https://ik.imagekit.io/devdojo/readme_gif/backendecommerce_cYHvgtFnT.gif)
+![Application Gif](https://ik.imagekit.io/devdojo/readme_gif/backendecommerce_cYHvgtFnT.gif)
 
-![Alternative Video with Voice](https://drive.google.com/file/d/1VqpVitwrVxlSzq4hdOkMNu6pPWmepwJD/view?usp=sharing)
+[Alternative Video with Voice](https://drive.google.com/file/d/1VqpVitwrVxlSzq4hdOkMNu6pPWmepwJD/view?usp=sharing)
 
 ## Project Owner
 
