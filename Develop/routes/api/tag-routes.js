@@ -58,21 +58,6 @@ router.put('/:id', (req, res) => {
       res.status(204).end();
     });
 })
- 
-
-// router.put('/', (req, res) => {
-//   Tag.update(
-//     {
-//       tag_name: req.body.tag_name
-//     },
-//     {
-//     where: {
-//       id: req.body.id
-//     },
-//     }).then(() => {
-//       res.status(204).end();
-//     });
-// })
 
 router.delete('/:id', (req, res) => {
   // delete on tag by its `id` value
