@@ -29,6 +29,8 @@ This gif bellow is a little heavy so it might take a while to load the first tim
 
 ![Image](https://ik.imagekit.io/devdojo/readme_gif/backendecommerce_cYHvgtFnT.gif)
 
+![Alternative Video with Voice](https://drive.google.com/file/d/1VqpVitwrVxlSzq4hdOkMNu6pPWmepwJD/view?usp=sharing)
+
 ## Project Owner
 
 Wildnei Queiroz
